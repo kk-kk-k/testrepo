@@ -1,7 +1,7 @@
 class d
 {
 public:
-	d(int);
+	explicit d(int);
 	~d(int);
 private:
 	int k;
