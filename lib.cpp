@@ -1,5 +1,2 @@
-#ifdef __LIB
-#error "multiple include"
-#else
+#include "lib.h"
 
-#endif
